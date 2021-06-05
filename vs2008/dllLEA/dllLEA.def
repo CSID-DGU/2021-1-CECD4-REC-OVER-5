@@ -1,0 +1,39 @@
+LIBRARY	"dllLEA"
+EXPORTS
+	lea_set_key	@1
+	lea_ecb_enc	@2
+	lea_ecb_dec	@3
+	
+	lea_cbc_enc	@4
+	lea_cbc_dec @5
+	
+	lea_ctr_enc @6
+	lea_ctr_dec @7
+	
+	lea_ofb_enc @8
+	lea_ofb_dec @9
+	
+	lea_cfb128_enc @10
+	lea_cfb128_dec @11
+	
+	lea_cmac_init @12
+	lea_cmac_update @13
+	lea_cmac_final @14
+	
+	lea_ccm_enc @15
+	lea_ccm_dec @16
+	
+	lea_gcm_init @17
+	lea_gcm_set_ctr @18
+	lea_gcm_set_aad @19
+	lea_gcm_enc @20
+	lea_gcm_dec @21
+	lea_gcm_final @22
+	
+	lea_online_init @23
+	lea_online_init_ex @24
+	lea_online_update @25
+	lea_online_final @26
+	
+	init_simd @27
+	get_simd_type @28

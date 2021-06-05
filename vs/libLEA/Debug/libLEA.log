@@ -1,0 +1,58 @@
+﻿  cpu_info_arm.c
+C:\Users\User\Desktop\LEA_C_Standalone_src\src\lea_locl.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\Users\User\Desktop\LEA_C_Standalone_src\src\config.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  cpu_info_ia32.c
+C:\Users\User\Desktop\LEA_C_Standalone_src\src\lea_locl.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\Users\User\Desktop\LEA_C_Standalone_src\src\config.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  lea_core.c
+C:\Users\User\Desktop\LEA_C_Standalone_src\src\config.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\Users\User\Desktop\LEA_C_Standalone_src\src\lea_locl.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  lea_gcm_generic.c
+C:\Users\User\Desktop\LEA_C_Standalone_src\src\config.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\Users\User\Desktop\LEA_C_Standalone_src\src\lea_locl.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\Users\User\Desktop\LEA_C_Standalone_src\src\lea_gcm_generic.c(290,17): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  lea_base.c
+C:\Users\User\Desktop\LEA_C_Standalone_src\src\config.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\Users\User\Desktop\LEA_C_Standalone_src\src\lea_locl.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  lea_online.c
+C:\Users\User\Desktop\LEA_C_Standalone_src\src\config.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\Users\User\Desktop\LEA_C_Standalone_src\src\lea_locl.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  lea_t_fallback.c
+C:\Users\User\Desktop\LEA_C_Standalone_src\src\config.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\Users\User\Desktop\LEA_C_Standalone_src\src\lea_locl.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  lea_t_generic.c
+C:\Users\User\Desktop\LEA_C_Standalone_src\src\config.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\Users\User\Desktop\LEA_C_Standalone_src\src\lea_locl.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\Users\User\Desktop\LEA_C_Standalone_src\src\lea_cbc.h(34,16): warning C4101: 'tmp' :참조되지 않은 지역 변수입니다.
+  코드를 생성하고 있습니다...
+  lea_core_xop.c
+C:\Users\User\Desktop\LEA_C_Standalone_src\src\config.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\Users\User\Desktop\LEA_C_Standalone_src\src\lea_locl.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  lea_gcm_pclmul.c
+C:\Users\User\Desktop\LEA_C_Standalone_src\src\config.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\Users\User\Desktop\LEA_C_Standalone_src\src\lea_locl.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\Users\User\Desktop\LEA_C_Standalone_src\src\lea_gcm_pclmul.c(98,6): warning C4101: 'i' :참조되지 않은 지역 변수입니다.
+  lea_t_sse2.c
+C:\Users\User\Desktop\LEA_C_Standalone_src\src\config.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\Users\User\Desktop\LEA_C_Standalone_src\src\lea_locl.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  lea_t_xop.c
+C:\Users\User\Desktop\LEA_C_Standalone_src\src\config.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\Users\User\Desktop\LEA_C_Standalone_src\src\lea_locl.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\Users\User\Desktop\LEA_C_Standalone_src\src\lea_xop.h(489,19): warning C4101: 'ct_simd' :참조되지 않은 지역 변수입니다.
+C:\Users\User\Desktop\LEA_C_Standalone_src\src\lea_xop.h(489,10): warning C4101: 'pt_simd' :참조되지 않은 지역 변수입니다.
+C:\Users\User\Desktop\LEA_C_Standalone_src\src\lea_xop.h(538,28): warning C4101: 'tmp_simd' :참조되지 않은 지역 변수입니다.
+C:\Users\User\Desktop\LEA_C_Standalone_src\src\lea_xop.h(594,6): warning C4101: 't' :참조되지 않은 지역 변수입니다.
+C:\Users\User\Desktop\LEA_C_Standalone_src\src\lea_ctr.h(40,16): warning C4101: 'block' :참조되지 않은 지역 변수입니다.
+  코드를 생성하고 있습니다...
+  lea_t_avx2_sse2.c
+C:\Users\User\Desktop\LEA_C_Standalone_src\src\config.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\Users\User\Desktop\LEA_C_Standalone_src\src\lea_locl.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  lea_t_avx2_xop.c
+C:\Users\User\Desktop\LEA_C_Standalone_src\src\config.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\Users\User\Desktop\LEA_C_Standalone_src\src\lea_locl.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\Users\User\Desktop\LEA_C_Standalone_src\src\lea_xop.h(489,19): warning C4101: 'ct_simd' :참조되지 않은 지역 변수입니다.
+C:\Users\User\Desktop\LEA_C_Standalone_src\src\lea_xop.h(489,10): warning C4101: 'pt_simd' :참조되지 않은 지역 변수입니다.
+C:\Users\User\Desktop\LEA_C_Standalone_src\src\lea_xop.h(538,28): warning C4101: 'tmp_simd' :참조되지 않은 지역 변수입니다.
+C:\Users\User\Desktop\LEA_C_Standalone_src\src\lea_xop.h(594,6): warning C4101: 't' :참조되지 않은 지역 변수입니다.
+  코드를 생성하고 있습니다...
+  libLEA.vcxproj -> C:\Users\User\Desktop\LEA_C_Standalone_src\vs\Debug\libLEA.lib
