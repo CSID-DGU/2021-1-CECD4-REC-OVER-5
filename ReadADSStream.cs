@@ -1,4 +1,4 @@
-﻿ausing System;
+using System;
 using System.IO;
 using Trinet.Core.IO.Ntfs;
 
