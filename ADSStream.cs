@@ -42,7 +42,7 @@ class ADSStream {
         FileInfo file = new FileInfo(filePath);
   
         //생성할 ADS스트림을 지우고 새로 만듦
-        file.DeleteAlternateDataStream("RudyFlag");
+        file.DeleteAlternateDataStream(streamName);
         AlternateDataStreamInfo makeStream = file.GetAlternateDataStream(streamName, FileMode.Create);
 
         //ADS 스트림 안에 넣을 문자열 생성
@@ -50,7 +50,7 @@ class ADSStream {
 
         //streamName의 스트림 안에 str 삽입
         using (FileStream fs = makeStream.OpenWrite())      
-            fs.Write(information);
+            fs.Write(information, 0, information.Length);
         
     }
 
