@@ -1,0 +1,106 @@
+﻿// Created by Microsoft (R) C/C++ Compiler Version 14.29.30037.0 (1dff5274).
+//
+// C:\Users\조영욱\source\repos\c++test\c++test\Debug\ads.tlh
+//
+// C++ source equivalent of Win32 type library ADS.tlb
+// compiler-generated file created 10/23/21 at 17:03:12 - DO NOT EDIT!
+
+#pragma once
+#pragma pack(push, 8)
+
+#include <comdef.h>
+
+//
+// Forward references and typedefs
+//
+
+struct __declspec(uuid("e7e65bd5-9681-4f9f-b30c-d8a2b7012f9f"))
+/* LIBID */ __ADS;
+struct __declspec(uuid("e9d2f7c2-d61c-486c-a3ca-38698f0aa751"))
+/* dual interface */ ADSInterface;
+struct /* coclass */ ADSClass;
+struct __declspec(uuid("f4e29a2d-3135-3740-995d-b78d6b583646"))
+/* dual interface */ _ADSClass;
+
+//
+// Smart pointer typedef declarations
+//
+
+_COM_SMARTPTR_TYPEDEF(ADSInterface, __uuidof(ADSInterface));
+_COM_SMARTPTR_TYPEDEF(_ADSClass, __uuidof(_ADSClass));
+
+//
+// Type library items
+//
+
+struct __declspec(uuid("e9d2f7c2-d61c-486c-a3ca-38698f0aa751"))
+ADSInterface : IDispatch
+{
+    //
+    // Wrapper methods for error-handling
+    //
+
+    long isDownloadFile (
+        _bstr_t filePath );
+    HRESULT setADSStream (
+        _bstr_t filePath,
+        _bstr_t streamName,
+        _bstr_t str );
+    _bstr_t getADSStream (
+        _bstr_t filePath,
+        _bstr_t streamName );
+    _bstr_t getAllADSStream (
+        _bstr_t filePath );
+    HRESULT testGood ( );
+
+    //
+    // Raw methods provided by interface
+    //
+
+      virtual HRESULT __stdcall raw_isDownloadFile (
+        /*[in]*/ BSTR filePath,
+        /*[out,retval]*/ long * pRetVal ) = 0;
+      virtual HRESULT __stdcall raw_setADSStream (
+        /*[in]*/ BSTR filePath,
+        /*[in]*/ BSTR streamName,
+        /*[in]*/ BSTR str ) = 0;
+      virtual HRESULT __stdcall raw_getADSStream (
+        /*[in]*/ BSTR filePath,
+        /*[in]*/ BSTR streamName,
+        /*[out,retval]*/ BSTR * pRetVal ) = 0;
+      virtual HRESULT __stdcall raw_getAllADSStream (
+        /*[in]*/ BSTR filePath,
+        /*[out,retval]*/ BSTR * pRetVal ) = 0;
+      virtual HRESULT __stdcall raw_testGood ( ) = 0;
+};
+
+struct __declspec(uuid("62715342-08e2-44a2-82fb-513ab7d8a0cf"))
+ADSClass;
+    // [ default ] interface _ADSClass
+    // interface _Object
+    // interface ADSInterface
+
+struct __declspec(uuid("f4e29a2d-3135-3740-995d-b78d6b583646"))
+_ADSClass : IDispatch
+{};
+
+//
+// Named GUID constants initializations
+//
+
+extern "C" const GUID __declspec(selectany) LIBID_ADS =
+    {0xe7e65bd5,0x9681,0x4f9f,{0xb3,0x0c,0xd8,0xa2,0xb7,0x01,0x2f,0x9f}};
+extern "C" const GUID __declspec(selectany) IID_ADSInterface =
+    {0xe9d2f7c2,0xd61c,0x486c,{0xa3,0xca,0x38,0x69,0x8f,0x0a,0xa7,0x51}};
+extern "C" const GUID __declspec(selectany) CLSID_ADSClass =
+    {0x62715342,0x08e2,0x44a2,{0x82,0xfb,0x51,0x3a,0xb7,0xd8,0xa0,0xcf}};
+extern "C" const GUID __declspec(selectany) IID__ADSClass =
+    {0xf4e29a2d,0x3135,0x3740,{0x99,0x5d,0xb7,0x8d,0x6b,0x58,0x36,0x46}};
+
+//
+// Wrapper method implementations
+//
+
+#include "C:\Users\조영욱\source\repos\c++test\c++test\Debug\ads.tli"
+
+#pragma pack(pop)

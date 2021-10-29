@@ -1,0 +1,87 @@
+﻿// Created by Microsoft (R) C/C++ Compiler Version 14.29.30037.0 (251bef9c).
+//
+// C:\Users\조영욱\source\repos\c++test\c++test\x64\Debug\trinet.core.io.ntfs.tlh
+//
+// C++ source equivalent of Win32 type library Trinet.Core.IO.Ntfs.tlb
+// compiler-generated file created 10/23/21 at 17:42:34 - DO NOT EDIT!
+
+#pragma once
+#pragma pack(push, 8)
+
+#include <comdef.h>
+
+namespace Trinet_Core_IO_Ntfs {
+
+//
+// Forward references and typedefs
+//
+
+struct __declspec(uuid("a81ff4f8-d84d-3c56-b6ea-fd8296a8a0d4"))
+/* LIBID */ __Trinet_Core_IO_Ntfs;
+struct /* coclass */ AlternateDataStreamInfo;
+enum FileStreamAttributes;
+enum FileStreamType;
+struct /* coclass */ FileSystem;
+struct __declspec(uuid("f2a8d130-8809-358b-a52a-7465efa6a7ed"))
+/* dual interface */ _AlternateDataStreamInfo;
+struct __declspec(uuid("84ae37d7-072f-33c1-a8ed-f08ac58f9818"))
+/* dual interface */ _FileSystem;
+
+//
+// Smart pointer typedef declarations
+//
+
+_COM_SMARTPTR_TYPEDEF(_AlternateDataStreamInfo, __uuidof(_AlternateDataStreamInfo));
+_COM_SMARTPTR_TYPEDEF(_FileSystem, __uuidof(_FileSystem));
+
+//
+// Type library items
+//
+
+struct __declspec(uuid("752af22f-01fa-320b-b365-cea9f268a4fd"))
+AlternateDataStreamInfo;
+    // [ default ] interface _AlternateDataStreamInfo
+    // interface _Object
+
+enum __declspec(uuid("6d7e1fc9-6e06-302d-a64d-2f6b8796b9ac"))
+FileStreamAttributes
+{
+    FileStreamAttributes_None = 0,
+    FileStreamAttributes_ModifiedWhenRead = 1,
+    FileStreamAttributes_ContainsSecurity = 2,
+    FileStreamAttributes_ContainsProperties = 4,
+    FileStreamAttributes_Sparse = 8
+};
+
+enum __declspec(uuid("da313468-4fd4-3536-bb3c-57bed998313c"))
+FileStreamType
+{
+    FileStreamType_Unknown = 0,
+    FileStreamType_Data = 1,
+    FileStreamType_ExtendedAttributes = 2,
+    FileStreamType_SecurityData = 3,
+    FileStreamType_AlternateDataStream = 4,
+    FileStreamType_Link = 5,
+    FileStreamType_PropertyData = 6,
+    FileStreamType_ObjectId = 7,
+    FileStreamType_ReparseData = 8,
+    FileStreamType_SparseBlock = 9,
+    FileStreamType_TransactionData = 10
+};
+
+struct __declspec(uuid("e44ac795-bc70-3ace-9795-a0039fdb5344"))
+FileSystem;
+    // [ default ] interface _FileSystem
+    // interface _Object
+
+struct __declspec(uuid("f2a8d130-8809-358b-a52a-7465efa6a7ed"))
+_AlternateDataStreamInfo : IDispatch
+{};
+
+struct __declspec(uuid("84ae37d7-072f-33c1-a8ed-f08ac58f9818"))
+_FileSystem : IDispatch
+{};
+
+} // namespace Trinet_Core_IO_Ntfs
+
+#pragma pack(pop)
