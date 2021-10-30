@@ -1,3 +1,6 @@
+//상단바에 도구-nuget패키지관리자-패키지관리자 콘솔 열고
+//Install-Package Trinet.Core.IO.Ntfs 실행하면 돌아갑니다
+
 using System;
 using System.IO;
 using System.Collections.Generic;
