@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "RSCS/1.0.0": {
+        "dependencies": {
+          "Trinet.Core.IO.Ntfs": "4.1.1"
+        },
+        "runtime": {
+          "RSCS.dll": {}
+        }
+      },
+      "Trinet.Core.IO.Ntfs/4.1.1": {
+        "runtime": {
+          "lib/netstandard2.0/Trinet.Core.IO.Ntfs.dll": {
+            "assemblyVersion": "4.1.1.0",
+            "fileVersion": "4.1.1.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "RSCS/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Trinet.Core.IO.Ntfs/4.1.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-+weNUbMB/aSGKaqp5TXoKRJbIqcnXIrIs0OZO45LwWN6Rkfqg9nLpewi9e5LIeB+v7ifinwdRbtMLMWpOmHJMA==",
+      "path": "trinet.core.io.ntfs/4.1.1",
+      "hashPath": "trinet.core.io.ntfs.4.1.1.nupkg.sha512"
+    }
+  }
+}

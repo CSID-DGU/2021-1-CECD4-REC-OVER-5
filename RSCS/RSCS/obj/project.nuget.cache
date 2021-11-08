@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "g0GmpSMYy0N7HpxqUOkb+MaaaQ/m0wtg211yPqBm0/yHeHs6RAI2o1qViZ3Vd7AulPYAveAw7G0m84qavar6Kw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\yuti9\\source\\repos\\RSCS\\RSCS\\RSCS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\yuti9\\.nuget\\packages\\trinet.core.io.ntfs\\4.1.1\\trinet.core.io.ntfs.4.1.1.nupkg.sha512"
+  ],
+  "logs": []
+}
