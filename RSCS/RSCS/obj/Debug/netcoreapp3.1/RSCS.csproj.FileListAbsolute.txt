@@ -1,0 +1,15 @@
+C:\Users\yuti9\source\repos\RSCS\RSCS\bin\Debug\netcoreapp3.1\RSCS.exe
+C:\Users\yuti9\source\repos\RSCS\RSCS\bin\Debug\netcoreapp3.1\RSCS.deps.json
+C:\Users\yuti9\source\repos\RSCS\RSCS\bin\Debug\netcoreapp3.1\RSCS.runtimeconfig.json
+C:\Users\yuti9\source\repos\RSCS\RSCS\bin\Debug\netcoreapp3.1\RSCS.runtimeconfig.dev.json
+C:\Users\yuti9\source\repos\RSCS\RSCS\bin\Debug\netcoreapp3.1\RSCS.dll
+C:\Users\yuti9\source\repos\RSCS\RSCS\bin\Debug\netcoreapp3.1\RSCS.pdb
+C:\Users\yuti9\source\repos\RSCS\RSCS\bin\Debug\netcoreapp3.1\Trinet.Core.IO.Ntfs.dll
+C:\Users\yuti9\source\repos\RSCS\RSCS\obj\Debug\netcoreapp3.1\RSCS.csproj.AssemblyReference.cache
+C:\Users\yuti9\source\repos\RSCS\RSCS\obj\Debug\netcoreapp3.1\RSCS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yuti9\source\repos\RSCS\RSCS\obj\Debug\netcoreapp3.1\RSCS.AssemblyInfoInputs.cache
+C:\Users\yuti9\source\repos\RSCS\RSCS\obj\Debug\netcoreapp3.1\RSCS.AssemblyInfo.cs
+C:\Users\yuti9\source\repos\RSCS\RSCS\obj\Debug\netcoreapp3.1\RSCS.csproj.CoreCompileInputs.cache
+C:\Users\yuti9\source\repos\RSCS\RSCS\obj\Debug\netcoreapp3.1\RSCS.dll
+C:\Users\yuti9\source\repos\RSCS\RSCS\obj\Debug\netcoreapp3.1\RSCS.pdb
+C:\Users\yuti9\source\repos\RSCS\RSCS\obj\Debug\netcoreapp3.1\RSCS.genruntimeconfig.cache
