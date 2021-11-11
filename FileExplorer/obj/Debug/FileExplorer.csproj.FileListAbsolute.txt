@@ -1,0 +1,22 @@
+C:\Users\stdlib\documents\visual studio 2015\Projects\FileExplorer\FileExplorer\bin\Debug\FileExplorer.exe.config
+C:\Users\stdlib\documents\visual studio 2015\Projects\FileExplorer\FileExplorer\bin\Debug\FileExplorer.exe
+C:\Users\stdlib\documents\visual studio 2015\Projects\FileExplorer\FileExplorer\bin\Debug\FileExplorer.pdb
+C:\Users\stdlib\documents\visual studio 2015\Projects\FileExplorer\FileExplorer\obj\Debug\FileExplorer.csprojResolveAssemblyReference.cache
+C:\Users\stdlib\documents\visual studio 2015\Projects\FileExplorer\FileExplorer\obj\Debug\FileExplorer.Form1.resources
+C:\Users\stdlib\documents\visual studio 2015\Projects\FileExplorer\FileExplorer\obj\Debug\FileExplorer.Properties.Resources.resources
+C:\Users\stdlib\documents\visual studio 2015\Projects\FileExplorer\FileExplorer\obj\Debug\FileExplorer.csproj.GenerateResource.Cache
+C:\Users\stdlib\documents\visual studio 2015\Projects\FileExplorer\FileExplorer\obj\Debug\FileExplorer.exe
+C:\Users\stdlib\documents\visual studio 2015\Projects\FileExplorer\FileExplorer\obj\Debug\FileExplorer.pdb
+C:\Users\yuti9\OneDrive\Desktop\SimpleExplorer-master\FileExplorer\bin\Debug\FileExplorer.exe.config
+C:\Users\yuti9\OneDrive\Desktop\SimpleExplorer-master\FileExplorer\bin\Debug\FileExplorer.exe
+C:\Users\yuti9\OneDrive\Desktop\SimpleExplorer-master\FileExplorer\bin\Debug\FileExplorer.pdb
+C:\Users\yuti9\OneDrive\Desktop\SimpleExplorer-master\FileExplorer\obj\Debug\FileExplorer.csproj.AssemblyReference.cache
+C:\Users\yuti9\OneDrive\Desktop\SimpleExplorer-master\FileExplorer\obj\Debug\FileExplorer.Form1.resources
+C:\Users\yuti9\OneDrive\Desktop\SimpleExplorer-master\FileExplorer\obj\Debug\FileExplorer.Properties.Resources.resources
+C:\Users\yuti9\OneDrive\Desktop\SimpleExplorer-master\FileExplorer\obj\Debug\FileExplorer.csproj.GenerateResource.cache
+C:\Users\yuti9\OneDrive\Desktop\SimpleExplorer-master\FileExplorer\obj\Debug\FileExplorer.csproj.CoreCompileInputs.cache
+C:\Users\yuti9\OneDrive\Desktop\SimpleExplorer-master\FileExplorer\obj\Debug\FileExplorer.exe
+C:\Users\yuti9\OneDrive\Desktop\SimpleExplorer-master\FileExplorer\obj\Debug\FileExplorer.pdb
+C:\Users\yuti9\OneDrive\Desktop\SimpleExplorer-master\FileExplorer\bin\Debug\MetroFramework.Design.dll
+C:\Users\yuti9\OneDrive\Desktop\SimpleExplorer-master\FileExplorer\bin\Debug\MetroFramework.dll
+C:\Users\yuti9\OneDrive\Desktop\SimpleExplorer-master\FileExplorer\bin\Debug\MetroFramework.Fonts.dll
